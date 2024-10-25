@@ -19,9 +19,14 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ✔  Actualmente trabajo como freelancer  <br>
+✔  Estoy buscando trabajo como desarrollador Frontend  <br>
 ✔  Estoy expandiendo mis conocimientos en React <br>
 ✔  Todos mis proyectos están disponibles en https://github.com/Alber05<br>
 ✔  Cómo contactarme:&nbsp; https://www.linkedin.com/in/alberto-s%C3%A1nchez-464a93180<br>
+
+<h2 align="left"> 💻 Trabajos realizados para empresas:</h2>
+✔  Cirugía de la mano Albacete: https://www.cirugiadelamanoalbacete.es/  <br>
+✔  InnocleanSolar: https://www.innocleansolar.es/ <br>
 
 
 <h2 align="left"> 💻 Lenguajes y herramientas:</h2>
