@@ -40,14 +40,13 @@
       </a>
       <br>CSS3
     </td>
-   
-     <td align="center" width="96">
+      <td align="center" width="96">
       <a href="#js">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
       </a>
       <br>Javascript
     </td>
-   <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#Next.Js">
         <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="48" height="48" alt="Next.js" />
       </a>
