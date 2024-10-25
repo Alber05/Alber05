@@ -1,11 +1,10 @@
-
 <h1 align="center">
- 👋 Hi, I'm Alber Sánchez!
+ 👋 ¡Hola! Soy Alber Sánchez
 </h1>
  
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Frontend+developer" > 
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Desarrollador+Frontend" > 
 </p>
 
 
@@ -19,13 +18,13 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
->✔  I’m currently working on freelancer job  <br>
-✔  I am currently expanding my knowledge about React <br>
-✔  All of my projects are available at https://github.com/Alber05<br>
-✔  How to reach me:&nbsp; &nbsp; * [linkedIn-@Alber05]([https://www.linkedin.com/in/mahmoud-miehob-937064187](https://www.linkedin.com/in/alberto-s%C3%A1nchez-464a93180/)) <br>
+✔  Actualmente trabajo como freelancer  <br>
+✔  Estoy expandiendo mis conocimientos en React <br>
+✔  Todos mis proyectos están disponibles en https://github.com/Alber05<br>
+✔  Cómo contactarme:&nbsp; https://www.linkedin.com/in/alberto-s%C3%A1nchez-464a93180<br>
 
 
-<h2 align="left"> 💻 Languages and Tools:</h2>
+<h2 align="left"> 💻 Lenguajes y herramientas:</h2>
 
 <table align="center">
   <tr>
@@ -41,17 +40,30 @@
       </a>
       <br>CSS3
     </td>
+   
      <td align="center" width="96">
+      <a href="#js">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
+      </a>
+      <br>Javascript
+    </td>
+   <td align="center" width="96">
+      <a href="#Next.Js">
+        <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="48" height="48" alt="Next.js" />
+      </a>
+      <br>Next.js
+    </td>
+      <td align="center" width="96">
       <a href="#bootstrap">
         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
      <td align="center" width="96">
-      <a href="#js">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
+      <a href="#tailwind">
+        <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="48" height="48" alt="Tailwind" />
       </a>
-      <br>Javascript
+      <br>Tailwind
     </td>
   </tr>
    <tr>
@@ -78,9 +90,8 @@
 </table>
 
 
-## Connect with me:
+## Conecta conmigo:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alberto-s%C3%A1nchez-464a93180/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
 </p>
-
